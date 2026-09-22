@@ -24,8 +24,6 @@ This repository will be used throughout the semester for:
 The repository will be updated as new activities and assignments are given during the semester.
 
 ---
-The structure may be updated during the semester as new activities are introduced.
----
 
 ## 🤝 For Students
 
